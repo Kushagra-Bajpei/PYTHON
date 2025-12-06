@@ -6,3 +6,9 @@ marks = {
 
 # print(marks, type(marks))
 print(marks["Harry"])
+
+
+# it is unordered
+# it is mutable
+# it is indexed
+# cannot contain duplicate keys
